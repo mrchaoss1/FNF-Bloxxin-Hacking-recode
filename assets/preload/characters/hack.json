@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				858,
+				351
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "spina",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				849,
+				362
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "L",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				843,
+				353
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "D",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				821,
+				379
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "U",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				819,
+				360
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "R",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				833,
+				364
+			],
+			"anim": "arrive",
+			"fps": 24,
+			"name": "opa",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				834,
+				364
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				834,
+				364
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "how",
+			"loop": false,
+			"name": "1Dia"
+		},
+		{
+			"offsets": [
+				834,
+				364
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hack",
+			"loop": false,
+			"name": "2Dia"
+		},
+		{
+			"offsets": [
+				834,
+				366
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "no",
+			"loop": false,
+			"name": "zdoh"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Hack",
+	"position": [
+		30,
+		0
+	],
+	"healthicon": "hack",
+	"flip_x": false,
+	"healthbar_colors": [
+		194,
+		168,
+		63
+	],
+	"camera_position": [
+		-990,
+		-270
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}
